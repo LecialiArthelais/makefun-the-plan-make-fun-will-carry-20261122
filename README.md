@@ -1,8 +1,8 @@
 # The Plan make.fun Will Carry
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
-[![Node.js 22](https://img.shields.io/badge/Node.js-22-green)](https://nodejs.org)
-[![Entry valid](https://img.shields.io/badge/entry-274%2F280%20chars-brightgreen)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
+[![make.fun · the-plan-make-fun-will-carry-20261122-2138](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/LecialiArthelais/makefun-the-plan-make-fun-will-carry-20261122/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/LecialiArthelais/makefun-the-plan-make-fun-will-carry-20261122/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
 
 Entry for the [make.fun bounty "The plan make.fun will carry"](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138) ($50, closes 23 Nov 2026).
 
